@@ -1,0 +1,1 @@
+export let  trainContentJSON= {1:"三检合一培训",2:"法律法规培训",3:"质量体系培训",};
